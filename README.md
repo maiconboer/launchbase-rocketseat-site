@@ -5,7 +5,7 @@ Installation
 
 **1 - Git Clone**  
   
-**2 - Installing the dependencies:**  
+**2 - Installing the dependencies: (express, nunjucks)**  
 **npm install**  
   
 **3 - Run the application:**  
